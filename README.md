@@ -4,3 +4,5 @@
     src="https://raw.githubusercontent.com/kentcdodds/kentcdodds/main/image.png"
   />
 </a>
+
+[Learn more about me](https://kentcdodds.com/about)
